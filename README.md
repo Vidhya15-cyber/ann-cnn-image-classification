@@ -81,15 +81,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Training Process
-- Accuracy & Loss Graphs
-- Prediction Results
-
----
+ 
 
 ## 📈 Future Enhancements
 
